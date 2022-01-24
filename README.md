@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @jungbug
-- 👀 I’m interested in computer
-- 🌱 I'm learning typeScript
-- 💞️ I’m a high school student
+
