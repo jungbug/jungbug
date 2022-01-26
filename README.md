@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://row.githubusercontent.com/jungbug/jungbug-svg/master/elastic-stroke-css-svg/dist/jungbug.svg">
-  </div>
+  <img src="https://raw.githubusercontent.com/jungbug/jungbug-svg/master/elastic-stroke-css-svg/dist/jungbug.svg">
+</div>
 
 ## email : jungbug04@naver.com
 ## discord : 정벌레#4817
