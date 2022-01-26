@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/jungbug/jungbug-svg/master/elastic-stroke-css-svg/dist/jungubug.svg">
   </div>
 
