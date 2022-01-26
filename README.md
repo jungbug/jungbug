@@ -12,13 +12,6 @@
 
 Web Dev, Algorithm, Software Education, UI/UX Design
 
-<!--
-![prgms-profile](https://prgms-badge.herokuapp.com/pr/dark/koa)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=singun11)](https://solved.ac/singun11)
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinkeonkim&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![snake](https://raw.githubusercontent.com/shinkeonkim/shinkeonkim/output/github-contribution-grid-snake.svg)
 
 </div>
