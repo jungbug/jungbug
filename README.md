@@ -1,4 +1,4 @@
-#JUNGBUG
+## JUNGBUG
 
 ## email : jungbug04@naver.com
 ## discord : 정벌레#4817
