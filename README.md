@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jungbug/jungbug-svg/master/elastic-stroke-css-svg/dist/jungbug.svg">
+  <img src="https://raw.githubusercontent.com/jungbug/jungbug-svg/master/jungbug/dist/jungbug.svg">
 </div>
 
 ## email : jungbug04@naver.com
