@@ -5,7 +5,6 @@
   
 </div>
 
-## blog : https://jungbug04.tistory.com
 ## email : jungbug04@naver.com
 ## discord : 정벌레#4817
 ## beakjoon : [Beakjoon](https://www.acmicpc.net/user/jungbug04) | [solved](https://solved.ac/profile/jungbug04)
