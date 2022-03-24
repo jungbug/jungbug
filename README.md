@@ -5,6 +5,7 @@
   
 </div>
 
+## portfolio : https://jungbug.netlify.app/
 ## velog : https://velog.io/@jungbug
 ## email : jungbug04@naver.com
 ## discord : 정벌레#4817
