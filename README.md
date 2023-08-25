@@ -27,8 +27,6 @@
 
 ## 📄 blog
 
-<div align="center">
-  <a href="https://velog.io/@jungbug">
+<a href="https://velog.io/@jungbug">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-  </a> 
-</div>
+</a> 
