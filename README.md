@@ -27,4 +27,8 @@
 
 ## 📄 blog
 
-### https://velog.io/@jungbug
+<div align="center">
+  <a href="https://velog.io/@jungbug">
+    <div>블로그</div>
+  </a> 
+</div>
