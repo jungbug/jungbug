@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://jungbug.netlify.app/">
-    <img src="https://raw.githubusercontent.com/jungbug/jungbug-svg/master/jungbug/jungbug.svg">
+  <a href="https://jungbug.github.io/jungbug_website/">
+    <img src="https://raw.githubusercontent.com/jungbug/jungbug-svg/master/jungbug/jungbug-shimmer.svg">
   </a> 
 </div>
 
