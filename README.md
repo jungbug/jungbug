@@ -4,6 +4,44 @@
   </a> 
 </div>
 
+## 📄 Curriculum Vitae
+
+<a href="https://drive.google.com/file/d/1uT5Odyv3WE5Q7SRpZISPJ7ZL_9Gh66br/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Check%20My%20CV-0078D4?style=for-the-badge&logo=googledrive&logoColor=white">
+</a>
+<a href="https://scholar.google.co.kr/citations?user=QvXRQCQAAAAJ&hl=ko">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
+</a>
+
+
+
+## 📚 Publications
+(†: First Author or Co-first Author)
+
+### 📝 Journal Articles
+* **SCAN: Visual Explanations with Self-Confidence and Analysis Networks** *IEEE Transactions on Artificial Intelligence (TAI)*, 2026. **†**
+* **Linear-Argmax Layer: A Robust and Effective Keypoint Localization Layer With Heatmap Induction Characteristics** *IEEE Access 13*, 2025. **†**
+
+### 🏛️ Conference Proceedings
+* **SOGAM: A Comparative Study on User Experience According to Direct and Indirect Advice Methods of AI Agents** *Proceedings of the HCI Korea 2026 Conference*, 2026.
+* **Learning rPPG without Facial Identity (Oral Presentation)** *2025 International Conference on Electrical, Computer and Energy Technologies (ICECET)*, 2025.
+* **Smooth Categorical Cross-Entropy: An Improved Approach to Overcome the Limitations of CCE** *2025 IEEE International Conference on Big Data and Smart Computing (BigComp)*, 2025. **†**
+* **Improved Neural Network Architecture for Handling Class Imbalance in Small Number of Classes** *Proceedings of the Korea Information Science Society (KISS) Conference*, 2024. **†**
+
+
+## 🎯 Research Interests
+
+My research journey began with building **Trustworthy AI**, focusing on **Explainable AI (XAI)**, **Robustness**, and **Generalization** to ensure model reliability in real-world scenarios.
+
+Building upon this foundation, I am currently exploring the frontiers of **Embodied & Generative AI**:
+* **4D Gaussian Splatting (4DGS)**
+* **Vision-Language Models (VLM)**
+* **Vision-Language-Action (VLA)**
+
+## 🏆 Honors & Awards
+
+* **Grand Prize (1st Place)**, *2024 CNU SW/AI Project Fair - Junior Creative Work Competition*, 2024.
+
 ## 💻 Skills
 
 ### programming language
