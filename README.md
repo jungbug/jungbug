@@ -23,6 +23,7 @@
 * **Linear-Argmax Layer: A Robust and Effective Keypoint Localization Layer With Heatmap Induction Characteristics** *IEEE Access 13*, 2025. **†**
 
 ### 🏛️ Conference Proceedings
+* **Region-Specific Face Editing via Hierarchical Dual-Path GAN Inversion** *Proceedings of the Korea Information Science Society (KISS) Conference*, 2026. **†**
 * **SOGAM: A Comparative Study on User Experience According to Direct and Indirect Advice Methods of AI Agents** *Proceedings of the HCI Korea 2026 Conference*, 2026.
 * **Learning rPPG without Facial Identity (Oral Presentation)** *2025 International Conference on Electrical, Computer and Energy Technologies (ICECET)*, 2025.
 * **Smooth Categorical Cross-Entropy: An Improved Approach to Overcome the Limitations of CCE** *2025 IEEE International Conference on Big Data and Smart Computing (BigComp)*, 2025. **†**
