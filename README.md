@@ -35,13 +35,13 @@
 My research journey began with building **Trustworthy AI**, focusing on **Explainable AI (XAI)**, **Robustness**, and **Generalization** to ensure model reliability in real-world scenarios.
 
 Building upon this foundation, I am currently exploring the frontiers of **Embodied & Generative AI**:
-* **4D Gaussian Splatting (4DGS)**
 * **Vision-Language Models (VLM)**
 * **Vision-Language-Action (VLA)**
 
 ## 🏆 Honors & Awards
 
 * **Grand Prize (1st Place)**, *2024 CNU SW/AI Project Fair - Junior Creative Work Competition*, 2024.
+* **Excellence Award**, *2026 Proceedings of the Korea Information Science Society (KISS) Conference*, 2026.
 
 ## 💻 Skills
 
