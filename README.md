@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://jungbug.github.io/jungbug_website/">
+  <!-- <a href="https://jungbug.github.io/jungbug_website/"> -->
     <img src="https://raw.githubusercontent.com/jungbug/jungbug-svg/master/jungbug/jungbug-shimmer.svg">
-  </a> 
+  <!-- </a>  -->
 </div>
 
 ## 📄 Curriculum Vitae
