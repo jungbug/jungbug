@@ -41,7 +41,8 @@ Building upon this foundation, I am currently exploring the frontiers of **Embod
 ## 🏆 Honors & Awards
 
 * **Grand Prize (1st Place)**, *2024 CNU SW/AI Project Fair - Junior Creative Work Competition*, 2024.
-* **Excellence Award**, *2026 Proceedings of the Korea Information Science Society (KISS) Conference*, 2026.
+* **Excellence Award**, *2026 Korea Computer Congress (KCC), Korean Institute of Information Scientists and Engineers (KIISE)*, 2026.
+
 
 ## 💻 Skills
 
