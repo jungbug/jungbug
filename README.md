@@ -6,7 +6,7 @@
 
 ## 📄 Curriculum Vitae
 
-<a href="https://drive.google.com/file/d/1uT5Odyv3WE5Q7SRpZISPJ7ZL_9Gh66br/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1TJ-oYXvSvmKCcU82UrfE6Wr_hV4G7H_Q/view?usp=sharing">
   <img src="https://img.shields.io/badge/Check%20My%20CV-0078D4?style=for-the-badge&logo=googledrive&logoColor=white">
 </a>
 <a href="https://scholar.google.co.kr/citations?user=QvXRQCQAAAAJ&hl=ko">
