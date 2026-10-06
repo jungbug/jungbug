@@ -12,6 +12,9 @@
 <a href="https://scholar.google.co.kr/citations?user=QvXRQCQAAAAJ&hl=ko">
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/sungyoon-jeong-3b96ab309">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
 
